@@ -21,6 +21,7 @@ Step 4: Set the time in seconds(Should Be more than 5 Seconds) You want the bot 
 
 (After running bat file it will automatically install its dependencies & Packages)
 
+<h1>Download ➤ </h1>
 
 <h1>NOTE : THE TIME TO REFRESH SHOULD BE MORE THAN 5 SECONDS OR YOUR BOT MAY GET BANNED FROM DISCORD</h1>
 
